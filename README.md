@@ -15,4 +15,17 @@ Learn everything you need to about the subject of this `Research`.
 
 ## Topics
 ```
+[x] Preface
+[x] Introduction
+[ ] Policy Object
+[ ] Query Object
+[ ] Service
+[ ] Observer
+[ ] Interactor
+[ ] Decorator
+[ ] Facade
+[ ] Form Object
+[ ] Presenter
+[ ] Builder
+[ ] Value Object
 ```
