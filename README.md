@@ -23,7 +23,7 @@ Learn everything you need to about the subject of this `Research`.
 [ ] Observer
 [ ] Interactor
 [ ] Decorator
-[ ] Facade
+[x] Facade
 [ ] Form Object
 [ ] Presenter
 [ ] Builder
