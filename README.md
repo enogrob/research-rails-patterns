@@ -18,7 +18,7 @@ Learn everything you need to about the subject of this `Research`.
 [x] Preface
 [x] Introduction
 [x] Policy Object
-[ ] Query Object
+[x] Query Object
 [ ] Service
 [ ] Observer
 [ ] Interactor
