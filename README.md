@@ -19,7 +19,7 @@ Learn everything you need to about the subject of this `Research`.
 [x] Introduction
 [x] Policy Object
 [x] Query Object
-[ ] Service
+[x] Service
 [ ] Observer
 [ ] Interactor
 [ ] Decorator
